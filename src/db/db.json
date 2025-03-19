@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "e00dd522-9769-4964-8de8-947424fd458a",
+    "name": "Jan Deckow",
+    "phone": "(794) 792-5289 x4829",
+    "email": "Mittie49@yahoo.com",
+    "job": "National Response Technician"
+  },
+  {
+    "id": "f8fff50a-7e7b-4385-ada5-bc484d2ccd37",
+    "name": "Neal Nicolas",
+    "phone": "523.818.4018",
+    "email": "Megane_Tromp88@hotmail.com",
+    "job": "Human Assurance Analyst"
+  },
+  {
+    "id": "286ba324-16c9-430a-9eea-d26d9481cf8d",
+    "name": "Ricky Jenkins",
+    "phone": "695-974-6474 x284",
+    "email": "Marques51@yahoo.com",
+    "job": "Legacy Functionality Consultant"
+  },
+  {
+    "id": "6ccfb9b4-6061-49ee-ba43-dbafcf3574e8",
+    "name": "Sean Kub",
+    "phone": "1-246-536-9261 x5993",
+    "email": "Irwin_Donnelly@hotmail.com",
+    "job": "Principal Intranet Developer"
+  },
+  {
+    "id": "312fa97f-fcb0-4cc8-9076-a8829e354e7f",
+    "name": "Tim Predovic",
+    "phone": "(972) 869-0225 x700",
+    "email": "Antonetta.Fadel60@yahoo.com",
+    "job": "Internal Branding Planner"
+  }
+]
